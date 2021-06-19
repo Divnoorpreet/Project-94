@@ -1,0 +1,54 @@
+.login{
+    background-image:url(background.png);
+    background-position: center;
+    background-size: cover;
+}
+#login_name{
+    background-color:white;
+    color: black;
+    border-radius: 15%;
+    float: none;
+}
+#header{
+    color: whitesmoke;
+    font-family:'Dancing Script';
+}
+#user_name{
+    color:black;
+}
+.room_page{
+    background-image:url(background.png);
+    background-position: center;
+    background-size: cover;
+}
+#page{
+    color: whitesmoke;
+    font-family:'Dancing Script';
+}
+.Room_name{
+    background-color: whitesmoke;
+    border-radius: 15%;
+    float: none;
+}
+#room_name{
+    background-color: white;
+    color:black;
+    width:200px;
+    height:30px;
+}
+#img{
+    width: 100px;   
+    border-radius: 60px;
+}
+#add_room{
+    width:100px;
+    height:30px;
+    border-radius: 20%;
+}
+#trending_room{
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px;
+    float: none;
+    width:800px;
+}
